@@ -70,3 +70,4 @@ buttonNext.addEventListener('click', () => {
 });
 
 renderPokemon(searchPokemon);
+console.log('teste');
